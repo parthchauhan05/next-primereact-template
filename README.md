@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`primereact`](https://primereact.com).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`primereact`](https://primereact.org).
 
 ## Getting Started
 
